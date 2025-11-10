@@ -24,7 +24,7 @@ The application offers flexible sizing options to meet various use cases:
 | **Extra Large** | 800 x 400 px | Banners, warehouse labels |
 | **Custom** | User-defined | Specific requirements |
 
-![Barcode Size Comparison](https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?w=800&q=80)
+![Barcode Size Comparison](/public/images/barcode-2.png)
 
 ## 📥 Download Formats
 
