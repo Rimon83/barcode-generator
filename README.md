@@ -47,9 +47,6 @@ Export your barcodes in multiple formats to suit your needs:
 - **WebP**: Modern format with excellent compression
 - **PDF**: Ready-to-print document format
 
-![alt text](images/barcod-home.png "Barcode Home page")
-![alt text](images/barcode-1.png "Barcode text is written")
-![alt text](images/barcode-2.png "Download Selection")
 
 ## 🚀 Getting Started
 
