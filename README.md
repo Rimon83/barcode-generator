@@ -2,7 +2,7 @@
 
 A modern, responsive web application that converts text into downloadable barcodes with multiple size options. Built with React, TypeScript, Vite, and styled with Tailwind CSS.
 
-![Barcode Generator Home Page](/images/barcod-home.png "Barcode Home page")
+![Barcode Generator Home Page](/public/images/barcod-home.png "Barcode Home page")
 ## ✨ Features
 
 - **Real-time Barcode Generation**: Instantly converts text input into barcodes as you type
