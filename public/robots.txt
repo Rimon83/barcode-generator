@@ -1,0 +1,9 @@
+# Allow all search engines to crawl the site
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: http://localhost:5173/sitemap.xml
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
